@@ -1,14 +1,74 @@
-Ali Hassan
-Frontend Developer
+Ali Hassan  
+Frontend Developer  
+Email: ali.hassan@example.com | Phone: +20-123-456-7890 | LinkedIn: linkedin.com/in/alihassan | Location: Cairo, Egypt  
 
-Overview:
-Creative frontend developer with 4+ years of experience using React, JavaScript, and Figma. Built multiple responsive web applications and collaborated closely with UI/UX designers.
+──────────────────────────────────────────────────────────────────────────────
 
-Technical Stack:
-- React.js, Vue.js, Angular
-- HTML5, CSS3, JavaScript
-- Figma, Adobe XD, Photoshop
-- Node.js, Express
+PROFILE  
+Creative and detail-oriented Frontend Developer with over 4 years of experience building responsive, user-centric web applications. Proficient in modern JavaScript frameworks like React and Vue.js. Adept at translating UI/UX designs into fully functional, high-performance frontends. Collaborative team player who thrives in agile environments and cross-functional teams.
 
-Languages:
-- English (Fluent), Arabic (Native)
+──────────────────────────────────────────────────────────────────────────────
+
+TECHNICAL SKILLS  
+
+Frontend: React.js, Vue.js, Angular, HTML5, CSS3, JavaScript, TypeScript  
+UI/UX & Design: Figma, Adobe XD, Adobe Photoshop, Wireframing, Prototyping  
+Backend (Basic): Node.js, Express.js  
+Version Control: Git, GitHub, GitLab  
+Testing: Jest, Cypress, React Testing Library  
+Other Tools: NPM, Webpack, Vite, VS Code  
+
+──────────────────────────────────────────────────────────────────────────────
+
+EXPERIENCE
+
+Frontend Developer  
+CreativeApps Inc., Cairo, Egypt  
+Feb 2021 – Present  
+- Developed and maintained 10+ production-grade React/Vue.js web applications with fully responsive layouts  
+- Integrated RESTful APIs, handled state management using Redux and Vuex  
+- Collaborated with UI/UX designers using Figma to implement pixel-perfect interfaces  
+- Reduced page load time by 35% by implementing code-splitting and lazy loading strategies  
+- Worked in agile sprints, participating in daily stand-ups, sprint planning, and code reviews
+
+Frontend Engineer  
+CodeCrafters Studio, Remote  
+Jul 2019 – Jan 2021  
+- Led the redesign and frontend overhaul of a legacy Angular app into a modern Vue.js SPA  
+- Created reusable component libraries using Storybook  
+- Built form validation and dynamic data handling for user registration and dashboards  
+- Collaborated closely with backend developers to integrate APIs and optimize data flows  
+
+──────────────────────────────────────────────────────────────────────────────
+
+EDUCATION
+
+Bachelor of Science in Computer Science  
+Cairo University  
+2015 – 2019  
+GPA: 3.7
+
+──────────────────────────────────────────────────────────────────────────────
+
+PROJECTS
+
+Portfolio Website  
+Developed a personal portfolio site using React and Tailwind CSS with dynamic project filtering and responsive design.
+
+E-commerce Frontend  
+Built a responsive e-commerce web app frontend using Vue.js with shopping cart, checkout, and product filtering features.
+
+Component Library  
+Created a reusable UI component library with styled-components and Storybook for use across multiple internal tools.
+
+──────────────────────────────────────────────────────────────────────────────
+
+CERTIFICATIONS (optional)
+- Responsive Web Design – freeCodeCamp
+- Modern React with Redux – Udemy (2022)
+
+──────────────────────────────────────────────────────────────────────────────
+
+LANGUAGES  
+- English – Fluent  
+- Arabic – Native

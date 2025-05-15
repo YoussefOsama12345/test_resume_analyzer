@@ -1,13 +1,59 @@
-Senior Data Scientist – Machine Learning & AI
+📄 Full Job Description – Senior Data Scientist (Machine Learning & AI)  
+**Position Title**: Senior Data Scientist – Machine Learning & AI  
+**Location**: Remote / Hybrid – San Francisco, CA  
+**Employment Type**: Full-Time  
+**Department**: Data Science & AI  
 
-Responsibilities:
-- Build and deploy ML models using Python, TensorFlow, and PyTorch
-- Use AWS SageMaker for model training and deployment
-- Collaborate with data engineers and product teams
+---
 
-Requirements:
-- Strong Python programming skills
-- Experience with TensorFlow, PyTorch
-- Familiarity with AWS, Docker, Kubernetes
-- Excellent problem-solving and communication skills
-- Preferred: Experience with CI/CD pipelines
+### About the Role  
+We are seeking a highly skilled and experienced Senior Data Scientist to join our Machine Learning & AI Research team. In this role, you will work on building state-of-the-art machine learning models with a strong focus on Natural Language Processing (NLP) and Deep Learning. You will collaborate with cross-functional teams to deploy scalable models that drive business impact.
+
+---
+
+### Key Responsibilities
+- Design, build, and deploy advanced machine learning models with a focus on NLP and Computer Vision  
+- Develop deep learning solutions using TensorFlow, PyTorch, and other modern frameworks  
+- Lead experimentation and evaluation using A/B testing and statistical techniques  
+- Collaborate with Data Engineers to ensure clean data pipelines and model integration  
+- Implement model training, tuning, and deployment workflows using AWS SageMaker  
+- Contribute to technical architecture and research roadmap  
+- Communicate insights and results to business stakeholders in a clear and actionable manner  
+
+---
+
+### Basic Qualifications
+- **Master’s degree** in Computer Science, Machine Learning, Data Science, or a related field (**PhD preferred**)  
+- Minimum 5+ years of experience in applied Machine Learning or Data Science roles  
+- Strong proficiency in Python, with experience using TensorFlow, Keras, PyTorch, or similar libraries  
+- Solid understanding of ML concepts including supervised, unsupervised, and deep learning methods  
+- Experience deploying models in production environments using Docker, Kubernetes, and AWS  
+- Excellent communication and problem-solving skills  
+
+---
+
+### Preferred Qualifications
+- Experience with CI/CD pipelines and ML model versioning  
+- Publications or contributions to ML conferences or open-source projects  
+- Familiarity with model monitoring tools such as MLflow, Prometheus, or Grafana  
+- Knowledge of MLOps and infrastructure automation best practices  
+
+---
+
+### Education Requirements
+- **Required**: Master's degree in Computer Science, Machine Learning, Artificial Intelligence, or a related field  
+- **Preferred**: PhD in Computer Science, Machine Learning, or equivalent research experience  
+
+---
+
+### What We Offer
+- Competitive salary and performance-based bonuses  
+- Stock options and full benefits (medical, dental, vision, 401k)  
+- Flexible remote work policy  
+- Learning and development stipend  
+- Opportunities to publish and present at leading AI conferences  
+
+---
+
+### Equal Opportunity Employer  
+We are committed to building a diverse and inclusive workplace. All qualified applicants will receive consideration for employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, or age.

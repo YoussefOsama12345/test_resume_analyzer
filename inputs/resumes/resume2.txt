@@ -1,14 +1,68 @@
-Jane Smith
-DevOps Engineer
+Jane Smith  
+DevOps Engineer  
+Email: jane.smith@example.com | Phone: +1-555-789-1234 | LinkedIn: linkedin.com/in/janesmith | Location: Austin, TX  
 
-Profile:
-Proficient in automating CI/CD pipelines using Jenkins, Git, and Terraform. Experience with GCP and Azure cloud platforms. Skilled in scripting using Bash and Python.
+──────────────────────────────────────────────────────────────────────────────
 
-Tools & Skills:
-- Git, Jenkins, Ansible, Terraform
-- Python, Bash
-- Azure, GCP, Docker, Kubernetes
-- Monitoring: Prometheus, Grafana
+PROFILE  
+Detail-oriented and proactive DevOps Engineer with 5+ years of experience in automating infrastructure, optimizing CI/CD pipelines, and managing cloud-native deployments. Strong expertise in configuration management, infrastructure as code, and monitoring high-availability systems on Azure and GCP platforms. Passionate about improving engineering velocity and system reliability.
 
-Certifications:
-- Microsoft Certified: Azure Administrator
+──────────────────────────────────────────────────────────────────────────────
+
+SKILLS
+
+Programming/Scripting: Python, Bash, Shell  
+CI/CD Tools: Jenkins, GitHub Actions, GitLab CI, CircleCI  
+Infrastructure as Code: Terraform, Ansible, Pulumi  
+Cloud Platforms: Microsoft Azure, Google Cloud Platform (GCP), AWS (basic exposure)  
+Containerization & Orchestration: Docker, Kubernetes (EKS, GKE)  
+Monitoring & Logging: Prometheus, Grafana, ELK Stack, Datadog  
+Other Tools: Git, Helm, Nginx, Postman, Visual Studio Code
+
+──────────────────────────────────────────────────────────────────────────────
+
+EXPERIENCE
+
+DevOps Engineer  
+CloudEdge Solutions, Austin, TX  
+Jan 2021 – Present
+- Automated the CI/CD pipeline using Jenkins and GitHub Actions, reducing deployment times by 60%
+- Migrated on-prem services to Azure Kubernetes Service (AKS), resulting in 40% lower infrastructure costs
+- Designed and managed Terraform infrastructure modules reused across 6+ client projects
+- Implemented Prometheus/Grafana dashboards for real-time metrics and alerting on production clusters
+
+Site Reliability Engineer (SRE)  
+NextOps Technologies, Remote  
+Jul 2018 – Dec 2020
+- Maintained and scaled GCP-hosted services using Kubernetes and GKE
+- Built infrastructure automation with Ansible and custom Python scripts for provisioning
+- Developed monitoring solutions with custom alerts using Prometheus, ELK stack, and GCP monitoring tools
+- Participated in on-call rotation and incident response, improving incident recovery time by 35%
+
+──────────────────────────────────────────────────────────────────────────────
+
+EDUCATION
+
+Bachelor of Science in Information Technology  
+University of Texas at Austin  
+2014 – 2018  
+GPA: 3.65
+
+──────────────────────────────────────────────────────────────────────────────
+
+CERTIFICATIONS
+- Microsoft Certified: Azure Administrator Associate
+- Terraform Associate – HashiCorp (2022)
+- Certified Kubernetes Administrator (CKA) – in progress
+
+──────────────────────────────────────────────────────────────────────────────
+
+PROJECTS
+
+Infrastructure Automation Toolkit  
+Developed reusable Terraform modules and Ansible playbooks for provisioning cloud resources across Azure and GCP for DevOps teams.
+
+Deployment Health Dashboard  
+Built a real-time dashboard using Prometheus and Grafana for monitoring service health across Kubernetes clusters, integrated with Slack alerts.
+
+──────────────────────────────────────────────────────────────────────────────

@@ -1,15 +1,70 @@
 John Doe
 Senior Data Scientist
+Email: john.doe@example.com | Phone: +1-555-123-4567 | LinkedIn: linkedin.com/in/johndoe | Location: San Francisco, CA
 
-Summary:
-Experienced Data Scientist with 6+ years in machine learning, NLP, and big data. Strong knowledge of Python, TensorFlow, and SQL. Experienced in deploying models using Docker and Kubernetes on AWS.
+──────────────────────────────────────────────────────────────────────────────
 
-Skills:
-- Python, R, SQL
-- TensorFlow, Keras, PyTorch
-- AWS, Docker, Kubernetes
-- Tableau, Excel, Power BI
+SUMMARY
+Experienced and results-driven Data Scientist with over 6 years of hands-on experience in building, deploying, and scaling machine learning solutions. Strong expertise in NLP, deep learning, and big data analytics. Adept at using Python, TensorFlow, and cloud platforms such as AWS to drive business value through intelligent systems.
 
-Certifications:
-- AWS Certified Machine Learning - Specialty
-- Certified Scrum Master
+──────────────────────────────────────────────────────────────────────────────
+
+SKILLS
+Programming: Python, R, SQL, Bash
+ML/DL Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn
+Cloud & DevOps: AWS, Docker, Kubernetes, SageMaker
+Visualization: Tableau, Power BI, Excel, Matplotlib, Seaborn
+Tools: Git, Jupyter, VS Code, Airflow
+Concepts: NLP, Computer Vision, Time Series, Recommender Systems
+
+──────────────────────────────────────────────────────────────────────────────
+
+EXPERIENCE
+
+Senior Data Scientist  
+ABC Tech Solutions, San Francisco, CA  
+Jan 2020 – Present
+- Led end-to-end development of NLP models for customer support automation, reducing ticket resolution time by 35%
+- Built scalable data pipelines using Airflow and integrated with AWS SageMaker for model training and deployment
+- Conducted A/B testing and model evaluation using precision-recall metrics to improve predictive accuracy by 22%
+- Mentored junior data scientists and organized weekly ML knowledge sharing sessions
+
+Data Scientist  
+Data Insight Corp, Remote  
+Jun 2017 – Dec 2019
+- Developed time series forecasting models for sales prediction using LSTM and ARIMA
+- Processed and cleaned multi-terabyte datasets using Spark and SQL-based pipelines
+- Built interactive dashboards in Tableau to visualize customer engagement metrics
+
+──────────────────────────────────────────────────────────────────────────────
+
+EDUCATION
+
+Master of Science in Data Science  
+Stanford University, CA  
+2015 – 2017  
+GPA: 3.85 | Honors: Magna Cum Laude
+
+Bachelor of Science in Computer Science  
+University of California, Berkeley  
+2011 – 2015  
+GPA: 3.75
+
+──────────────────────────────────────────────────────────────────────────────
+
+CERTIFICATIONS
+- AWS Certified Machine Learning – Specialty
+- Certified Scrum Master (CSM)
+- TensorFlow Developer Certificate
+
+──────────────────────────────────────────────────────────────────────────────
+
+PROJECTS
+
+AI Resume Analyzer  
+Built a resume parsing system with NLP to extract and score candidate fit against job roles using spaCy and BERT.
+
+Interactive Salary Predictor  
+Developed a machine learning web app using Streamlit that predicts salaries based on job title, skills, and location.
+
+──────────────────────────────────────────────────────────────────────────────

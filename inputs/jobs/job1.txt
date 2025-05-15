@@ -1,0 +1,13 @@
+Senior Data Scientist – Machine Learning & AI
+
+Responsibilities:
+- Build and deploy ML models using Python, TensorFlow, and PyTorch
+- Use AWS SageMaker for model training and deployment
+- Collaborate with data engineers and product teams
+
+Requirements:
+- Strong Python programming skills
+- Experience with TensorFlow, PyTorch
+- Familiarity with AWS, Docker, Kubernetes
+- Excellent problem-solving and communication skills
+- Preferred: Experience with CI/CD pipelines

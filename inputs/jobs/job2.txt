@@ -1,0 +1,10 @@
+DevOps Engineer – Cloud Infrastructure
+
+Role Overview:
+Looking for a DevOps engineer with experience automating deployments and managing cloud infrastructure.
+
+Required Skills:
+- Hands-on with Docker, Kubernetes, Terraform
+- CI/CD tools: Jenkins, GitHub Actions
+- Cloud platforms: AWS, GCP, Azure
+- Monitoring tools: Prometheus, Grafana

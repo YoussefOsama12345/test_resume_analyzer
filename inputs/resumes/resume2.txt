@@ -1,0 +1,14 @@
+Jane Smith
+DevOps Engineer
+
+Profile:
+Proficient in automating CI/CD pipelines using Jenkins, Git, and Terraform. Experience with GCP and Azure cloud platforms. Skilled in scripting using Bash and Python.
+
+Tools & Skills:
+- Git, Jenkins, Ansible, Terraform
+- Python, Bash
+- Azure, GCP, Docker, Kubernetes
+- Monitoring: Prometheus, Grafana
+
+Certifications:
+- Microsoft Certified: Azure Administrator

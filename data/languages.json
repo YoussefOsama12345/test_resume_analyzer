@@ -1,0 +1,2103 @@
+[
+  {
+    "id": "lang_001",
+    "language": "English",
+    "normalized_name": "english",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "english"
+    ],
+    "related_languages": [
+      "Vietnamese",
+      "Hebrew",
+      "German"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_002",
+    "language": "Spanish",
+    "normalized_name": "spanish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "spanish"
+    ],
+    "related_languages": [
+      "Hungarian",
+      "Greek",
+      "Italian"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_003",
+    "language": "French",
+    "normalized_name": "french",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "french"
+    ],
+    "related_languages": [
+      "Hindi",
+      "Swedish",
+      "Mandarin"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_004",
+    "language": "German",
+    "normalized_name": "german",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "german"
+    ],
+    "related_languages": [
+      "Japanese",
+      "Vietnamese",
+      "French"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_005",
+    "language": "Mandarin",
+    "normalized_name": "mandarin",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "mandarin"
+    ],
+    "related_languages": [
+      "Indonesian",
+      "Korean",
+      "Greek"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_006",
+    "language": "Arabic",
+    "normalized_name": "arabic",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "arabic"
+    ],
+    "related_languages": [
+      "Vietnamese",
+      "Thai",
+      "Polish"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_007",
+    "language": "Hindi",
+    "normalized_name": "hindi",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "hindi"
+    ],
+    "related_languages": [
+      "French",
+      "Greek",
+      "Polish"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_008",
+    "language": "Portuguese",
+    "normalized_name": "portuguese",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "portuguese"
+    ],
+    "related_languages": [
+      "Italian",
+      "Polish",
+      "Indonesian"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_009",
+    "language": "Russian",
+    "normalized_name": "russian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "russian"
+    ],
+    "related_languages": [
+      "Japanese",
+      "Hebrew",
+      "Greek"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_010",
+    "language": "Japanese",
+    "normalized_name": "japanese",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "japanese"
+    ],
+    "related_languages": [
+      "English",
+      "Hebrew",
+      "Greek"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_011",
+    "language": "Italian",
+    "normalized_name": "italian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "italian"
+    ],
+    "related_languages": [
+      "Hebrew",
+      "Ukrainian",
+      "Mandarin"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_012",
+    "language": "Korean",
+    "normalized_name": "korean",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "korean"
+    ],
+    "related_languages": [
+      "Indonesian",
+      "French",
+      "English"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_013",
+    "language": "Turkish",
+    "normalized_name": "turkish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "turkish"
+    ],
+    "related_languages": [
+      "Japanese",
+      "Ukrainian",
+      "Mandarin"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_014",
+    "language": "Dutch",
+    "normalized_name": "dutch",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "dutch"
+    ],
+    "related_languages": [
+      "Hindi",
+      "Portuguese",
+      "Vietnamese"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_015",
+    "language": "Polish",
+    "normalized_name": "polish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "polish"
+    ],
+    "related_languages": [
+      "Russian",
+      "Korean",
+      "Portuguese"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_016",
+    "language": "Swedish",
+    "normalized_name": "swedish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "swedish"
+    ],
+    "related_languages": [
+      "Spanish",
+      "Hungarian",
+      "French"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_017",
+    "language": "Vietnamese",
+    "normalized_name": "vietnamese",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "vietnamese"
+    ],
+    "related_languages": [
+      "Dutch",
+      "Hindi",
+      "Hungarian"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_018",
+    "language": "Thai",
+    "normalized_name": "thai",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "thai"
+    ],
+    "related_languages": [
+      "Dutch",
+      "German",
+      "Hungarian"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_019",
+    "language": "Hebrew",
+    "normalized_name": "hebrew",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "hebrew"
+    ],
+    "related_languages": [
+      "French",
+      "Hindi",
+      "Swedish"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_020",
+    "language": "Greek",
+    "normalized_name": "greek",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "greek"
+    ],
+    "related_languages": [
+      "Ukrainian",
+      "Swedish",
+      "Portuguese"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_021",
+    "language": "Indonesian",
+    "normalized_name": "indonesian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "indonesian"
+    ],
+    "related_languages": [
+      "Thai",
+      "Hindi",
+      "Korean"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_022",
+    "language": "Ukrainian",
+    "normalized_name": "ukrainian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "ukrainian"
+    ],
+    "related_languages": [
+      "Hindi",
+      "Arabic",
+      "Greek"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_023",
+    "language": "Romanian",
+    "normalized_name": "romanian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "romanian"
+    ],
+    "related_languages": [
+      "Italian",
+      "Turkish",
+      "French"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_024",
+    "language": "Hungarian",
+    "normalized_name": "hungarian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "hungarian"
+    ],
+    "related_languages": [
+      "Korean",
+      "Turkish",
+      "Thai"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_025",
+    "language": "Bengali",
+    "normalized_name": "bengali",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "bengali",
+      "bangla"
+    ],
+    "related_languages": [
+      "Hindi",
+      "Urdu",
+      "Assamese"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_026",
+    "language": "Urdu",
+    "normalized_name": "urdu",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "urdu"
+    ],
+    "related_languages": [
+      "Hindi",
+      "Persian",
+      "Arabic"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_027",
+    "language": "Persian",
+    "normalized_name": "persian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "persian",
+      "farsi"
+    ],
+    "related_languages": [
+      "Arabic",
+      "Urdu",
+      "Pashto"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_028",
+    "language": "Malay",
+    "normalized_name": "malay",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "malay",
+      "bahasa melayu"
+    ],
+    "related_languages": [
+      "Indonesian",
+      "Javanese",
+      "Tagalog"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_029",
+    "language": "Tagalog",
+    "normalized_name": "tagalog",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "tagalog",
+      "filipino"
+    ],
+    "related_languages": [
+      "Cebuano",
+      "Ilocano",
+      "Malay"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_030",
+    "language": "Swahili",
+    "normalized_name": "swahili",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "swahili",
+      "kiswahili"
+    ],
+    "related_languages": [
+      "Zulu",
+      "Xhosa",
+      "Shona"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_031",
+    "language": "Amharic",
+    "normalized_name": "amharic",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "amharic"
+    ],
+    "related_languages": [
+      "Tigrinya",
+      "Oromo",
+      "Somali"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_032",
+    "language": "Finnish",
+    "normalized_name": "finnish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "finnish",
+      "suomi"
+    ],
+    "related_languages": [
+      "Estonian",
+      "Hungarian",
+      "Swedish"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_033",
+    "language": "Czech",
+    "normalized_name": "czech",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "czech",
+      "čeština"
+    ],
+    "related_languages": [
+      "Slovak",
+      "Polish",
+      "Russian"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_034",
+    "language": "Serbo-Croatian",
+    "normalized_name": "serbo_croatian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "serbo-croatian",
+      "serbian",
+      "croatian",
+      "bosnian"
+    ],
+    "related_languages": [
+      "Slovenian",
+      "Macedonian",
+      "Bulgarian"
+    ],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_035",
+    "language": "Norwegian",
+    "normalized_name": "norwegian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "norwegian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_036",
+    "language": "Danish",
+    "normalized_name": "danish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "danish"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_037",
+    "language": "Slovak",
+    "normalized_name": "slovak",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "slovak"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_038",
+    "language": "Bulgarian",
+    "normalized_name": "bulgarian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "bulgarian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_039",
+    "language": "Lithuanian",
+    "normalized_name": "lithuanian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "lithuanian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_040",
+    "language": "Latvian",
+    "normalized_name": "latvian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "latvian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_041",
+    "language": "Slovenian",
+    "normalized_name": "slovenian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "slovenian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_042",
+    "language": "Estonian",
+    "normalized_name": "estonian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "estonian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_043",
+    "language": "Georgian",
+    "normalized_name": "georgian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "georgian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_044",
+    "language": "Armenian",
+    "normalized_name": "armenian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "armenian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_045",
+    "language": "Azerbaijani",
+    "normalized_name": "azerbaijani",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "azerbaijani"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_046",
+    "language": "Macedonian",
+    "normalized_name": "macedonian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "macedonian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_047",
+    "language": "Bosnian",
+    "normalized_name": "bosnian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "bosnian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_048",
+    "language": "Albanian",
+    "normalized_name": "albanian",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "albanian"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_049",
+    "language": "Tigrinya",
+    "normalized_name": "tigrinya",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "tigrinya"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_050",
+    "language": "Oromo",
+    "normalized_name": "oromo",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "oromo"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_051",
+    "language": "Somali",
+    "normalized_name": "somali",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "somali"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_052",
+    "language": "Pashto",
+    "normalized_name": "pashto",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "pashto"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_053",
+    "language": "Sinhala",
+    "normalized_name": "sinhala",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "sinhala"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_054",
+    "language": "Nepali",
+    "normalized_name": "nepali",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "nepali"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_055",
+    "language": "Kazakh",
+    "normalized_name": "kazakh",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "kazakh"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_056",
+    "language": "Uzbek",
+    "normalized_name": "uzbek",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "uzbek"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_057",
+    "language": "Tajik",
+    "normalized_name": "tajik",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "tajik"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_058",
+    "language": "Kurdish",
+    "normalized_name": "kurdish",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "kurdish"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_059",
+    "language": "Yoruba",
+    "normalized_name": "yoruba",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "yoruba"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_060",
+    "language": "Igbo",
+    "normalized_name": "igbo",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "igbo"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_061",
+    "language": "Hausa",
+    "normalized_name": "hausa",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "hausa"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_062",
+    "language": "Zulu",
+    "normalized_name": "zulu",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "zulu"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_063",
+    "language": "Xhosa",
+    "normalized_name": "xhosa",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "xhosa"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_064",
+    "language": "Maori",
+    "normalized_name": "maori",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "maori"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_065",
+    "language": "Samoan",
+    "normalized_name": "samoan",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "samoan"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_066",
+    "language": "Tongan",
+    "normalized_name": "tongan",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "tongan"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_067",
+    "language": "Lao",
+    "normalized_name": "lao",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "lao"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_068",
+    "language": "Khmer",
+    "normalized_name": "khmer",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "khmer"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_069",
+    "language": "Burmese",
+    "normalized_name": "burmese",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "burmese"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_070",
+    "language": "Javanese",
+    "normalized_name": "javanese",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "javanese"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_071",
+    "language": "Sundanese",
+    "normalized_name": "sundanese",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "sundanese"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_072",
+    "language": "Cebuano",
+    "normalized_name": "cebuano",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "cebuano"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_073",
+    "language": "Ilocano",
+    "normalized_name": "ilocano",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "ilocano"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_074",
+    "language": "Hmong",
+    "normalized_name": "hmong",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "hmong"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_075",
+    "language": "Basque",
+    "normalized_name": "basque",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "basque"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_076",
+    "language": "Galician",
+    "normalized_name": "galician",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "galician"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_077",
+    "language": "Catalan",
+    "normalized_name": "catalan",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "catalan"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_078",
+    "language": "Quechua",
+    "normalized_name": "quechua",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "quechua"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_079",
+    "language": "Guarani",
+    "normalized_name": "guarani",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "guarani"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_080",
+    "language": "Aymara",
+    "normalized_name": "aymara",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "aymara"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_081",
+    "language": "Nahuatl",
+    "normalized_name": "nahuatl",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "nahuatl"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_082",
+    "language": "Haitian Creole",
+    "normalized_name": "haitian creole",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "haitian creole"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_083",
+    "language": "Creole",
+    "normalized_name": "creole",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "creole"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_084",
+    "language": "Cherokee",
+    "normalized_name": "cherokee",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "cherokee"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  },
+  {
+    "id": "lang_085",
+    "language": "Inuktitut",
+    "normalized_name": "inuktitut",
+    "cefr_levels": [
+      "A1",
+      "A2",
+      "B1",
+      "B2",
+      "C1",
+      "C2"
+    ],
+    "aliases": [
+      "inuktitut"
+    ],
+    "related_languages": [],
+    "tags": [
+      "spoken",
+      "written",
+      "professional",
+      "native"
+    ]
+  }
+]

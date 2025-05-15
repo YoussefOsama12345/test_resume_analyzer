@@ -1,0 +1,12 @@
+Frontend Developer – React & UX Design
+
+What You’ll Do:
+- Build responsive web apps using React.js and TypeScript
+- Collaborate with designers using Figma and Adobe XD
+- Work with REST APIs and WebSockets
+
+Skills:
+- React.js, Vue.js, JavaScript, HTML, CSS
+- Design tools: Figma, Adobe XD
+- Version control: Git
+- Nice to have: Node.js, Express.js

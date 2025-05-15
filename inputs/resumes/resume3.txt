@@ -1,0 +1,14 @@
+Ali Hassan
+Frontend Developer
+
+Overview:
+Creative frontend developer with 4+ years of experience using React, JavaScript, and Figma. Built multiple responsive web applications and collaborated closely with UI/UX designers.
+
+Technical Stack:
+- React.js, Vue.js, Angular
+- HTML5, CSS3, JavaScript
+- Figma, Adobe XD, Photoshop
+- Node.js, Express
+
+Languages:
+- English (Fluent), Arabic (Native)

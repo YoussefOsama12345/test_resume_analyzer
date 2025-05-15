@@ -1,0 +1,3723 @@
+[
+  {
+    "id": "skill_0001",
+    "name": "Excel Tool",
+    "normalized_name": "excel tool",
+    "category": "tool",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "exceltool",
+      "excel-tool"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Java",
+      "Django"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0002",
+    "name": "Java Expertise",
+    "normalized_name": "java expertise",
+    "category": "programming_language",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "java-expertise",
+      "javaexpertise"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "CI/CD",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0003",
+    "name": "Pytorch Skill",
+    "normalized_name": "pytorch skill",
+    "category": "ml",
+    "subcategory": "build_tool",
+    "aliases": [
+      "pytorchskill",
+      "pytorch-skill"
+    ],
+    "related_skills": [
+      "React",
+      "PMP",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0004",
+    "name": "Figma Tool",
+    "normalized_name": "figma tool",
+    "category": "design",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "figma-tool",
+      "figmatool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Git",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0005",
+    "name": "Vue.Js Tool",
+    "normalized_name": "vue.js tool",
+    "category": "database",
+    "subcategory": "in_memory",
+    "aliases": [
+      "vue.js-tool",
+      "vue.jstool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Java",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "data",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0006",
+    "name": "Pmp Tool",
+    "normalized_name": "pmp tool",
+    "category": "certification",
+    "subcategory": "compiled",
+    "aliases": [
+      "pmp-tool",
+      "pmptool"
+    ],
+    "related_skills": [
+      "CI/CD",
+      "Time Management",
+      "CEH"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0007",
+    "name": "Ceh",
+    "normalized_name": "ceh",
+    "category": "tool",
+    "subcategory": "build_tool",
+    "aliases": [
+      "ceh"
+    ],
+    "related_skills": [
+      "Git",
+      "TensorFlow",
+      "Jenkins"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0008",
+    "name": "Leadership Tool",
+    "normalized_name": "leadership tool",
+    "category": "certification",
+    "subcategory": "project_management",
+    "aliases": [
+      "leadershiptool",
+      "leadership-tool"
+    ],
+    "related_skills": [
+      "Figma",
+      "Git",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0009",
+    "name": "Tensorflow Tool",
+    "normalized_name": "tensorflow tool",
+    "category": "ml",
+    "subcategory": "general-purpose",
+    "aliases": [
+      "tensorflow-tool",
+      "tensorflowtool"
+    ],
+    "related_skills": [
+      "AWS",
+      "Terraform",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0010",
+    "name": "Git Skill",
+    "normalized_name": "git skill",
+    "category": "tool",
+    "subcategory": "cloud",
+    "aliases": [
+      "gitskill",
+      "git-skill"
+    ],
+    "related_skills": [
+      "Azure",
+      "Time Management",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0011",
+    "name": "Scrum",
+    "normalized_name": "scrum",
+    "category": "certification",
+    "subcategory": "version_control",
+    "aliases": [
+      "scrum"
+    ],
+    "related_skills": [
+      "Node.js",
+      "MongoDB",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0012",
+    "name": "Django Expertise",
+    "normalized_name": "django expertise",
+    "category": "framework",
+    "subcategory": "scripting",
+    "aliases": [
+      "djangoexpertise",
+      "django-expertise"
+    ],
+    "related_skills": [
+      "Azure",
+      "Python",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0013",
+    "name": "Terraform Tool",
+    "normalized_name": "terraform tool",
+    "category": "cloud_platform",
+    "subcategory": "public",
+    "aliases": [
+      "terraformtool",
+      "terraform-tool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Jenkins",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0014",
+    "name": "Time Management Skill",
+    "normalized_name": "time management skill",
+    "category": "tool",
+    "subcategory": "automation",
+    "aliases": [
+      "timemanagementskill",
+      "time-management-skill"
+    ],
+    "related_skills": [
+      "Scrum",
+      "AWS",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0015",
+    "name": "Ci/Cd",
+    "normalized_name": "ci/cd",
+    "category": "devops",
+    "subcategory": "scripting",
+    "aliases": [
+      "ci/cd"
+    ],
+    "related_skills": [
+      "Kubernetes",
+      "Time Management",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0016",
+    "name": "Git",
+    "normalized_name": "git",
+    "category": "tool",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "git"
+    ],
+    "related_skills": [
+      "Figma",
+      "Git",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0017",
+    "name": "Node.Js Development",
+    "normalized_name": "node.js development",
+    "category": "cloud_platform",
+    "subcategory": "private",
+    "aliases": [
+      "node.js-development",
+      "node.jsdevelopment"
+    ],
+    "related_skills": [
+      "Java",
+      "Jenkins",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0018",
+    "name": "Scrum Expertise",
+    "normalized_name": "scrum expertise",
+    "category": "certification",
+    "subcategory": "project_management",
+    "aliases": [
+      "scrumexpertise",
+      "scrum-expertise"
+    ],
+    "related_skills": [
+      "Azure",
+      "Time Management",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0020",
+    "name": "Javascript",
+    "normalized_name": "javascript",
+    "category": "programming_language",
+    "subcategory": "creativity",
+    "aliases": [
+      "javascript"
+    ],
+    "related_skills": [
+      "React",
+      "Scrum",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0021",
+    "name": "Scrum Tool",
+    "normalized_name": "scrum tool",
+    "category": "certification",
+    "subcategory": "private",
+    "aliases": [
+      "scrum-tool",
+      "scrumtool"
+    ],
+    "related_skills": [
+      "Figma",
+      "Django",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0022",
+    "name": "Terraform",
+    "normalized_name": "terraform",
+    "category": "certification",
+    "subcategory": "cloud",
+    "aliases": [
+      "terraform"
+    ],
+    "related_skills": [
+      "Node.js",
+      "AWS",
+      "Time Management"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0023",
+    "name": "Pmp Development",
+    "normalized_name": "pmp development",
+    "category": "certification",
+    "subcategory": "iac",
+    "aliases": [
+      "pmp-development",
+      "pmpdevelopment"
+    ],
+    "related_skills": [
+      "React",
+      "MongoDB",
+      "Figma"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0024",
+    "name": "Docker Development",
+    "normalized_name": "docker development",
+    "category": "devops",
+    "subcategory": "unsupervised",
+    "aliases": [
+      "docker-development",
+      "dockerdevelopment"
+    ],
+    "related_skills": [
+      "PMP",
+      "PostgreSQL",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0025",
+    "name": "Kubernetes Skill",
+    "normalized_name": "kubernetes skill",
+    "category": "devops",
+    "subcategory": "compiled",
+    "aliases": [
+      "kubernetesskill",
+      "kubernetes-skill"
+    ],
+    "related_skills": [
+      "Java",
+      "Excel",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0027",
+    "name": "React Development",
+    "normalized_name": "react development",
+    "category": "framework",
+    "subcategory": "general-purpose",
+    "aliases": [
+      "react-development",
+      "reactdevelopment"
+    ],
+    "related_skills": [
+      "Jenkins",
+      "PMP",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0029",
+    "name": "Pmp Expertise",
+    "normalized_name": "pmp expertise",
+    "category": "certification",
+    "subcategory": "unsupervised",
+    "aliases": [
+      "pmp-expertise",
+      "pmpexpertise"
+    ],
+    "related_skills": [
+      "Scrum",
+      "PyTorch",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0031",
+    "name": "Pytorch Expertise",
+    "normalized_name": "pytorch expertise",
+    "category": "ml",
+    "subcategory": "graphic",
+    "aliases": [
+      "pytorch-expertise",
+      "pytorchexpertise"
+    ],
+    "related_skills": [
+      "Terraform",
+      "Git",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0032",
+    "name": "Python Skill",
+    "normalized_name": "python skill",
+    "category": "programming_language",
+    "subcategory": "supervised",
+    "aliases": [
+      "python-skill",
+      "pythonskill"
+    ],
+    "related_skills": [
+      "CI/CD",
+      "PostgreSQL",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0034",
+    "name": "Scrum Skill",
+    "normalized_name": "scrum skill",
+    "category": "certification",
+    "subcategory": "unsupervised",
+    "aliases": [
+      "scrum-skill",
+      "scrumskill"
+    ],
+    "related_skills": [
+      "React",
+      "Git",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0035",
+    "name": "Python",
+    "normalized_name": "python",
+    "category": "programming_language",
+    "subcategory": "creativity",
+    "aliases": [
+      "python"
+    ],
+    "related_skills": [
+      "Java",
+      "Git",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "data"
+    ]
+  },
+  {
+    "id": "skill_0038",
+    "name": "Leadership Development",
+    "normalized_name": "leadership development",
+    "category": "cloud_platform",
+    "subcategory": "private",
+    "aliases": [
+      "leadership-development",
+      "leadershipdevelopment"
+    ],
+    "related_skills": [
+      "TensorFlow",
+      "Django",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0040",
+    "name": "Kubernetes Expertise",
+    "normalized_name": "kubernetes expertise",
+    "category": "devops",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "kubernetesexpertise",
+      "kubernetes-expertise"
+    ],
+    "related_skills": [
+      "React",
+      "Node.js",
+      "Time Management"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0041",
+    "name": "Docker Expertise",
+    "normalized_name": "docker expertise",
+    "category": "devops",
+    "subcategory": "hybrid",
+    "aliases": [
+      "docker-expertise",
+      "dockerexpertise"
+    ],
+    "related_skills": [
+      "Node.js",
+      "AWS",
+      "Azure"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0042",
+    "name": "Mongodb",
+    "normalized_name": "mongodb",
+    "category": "database",
+    "subcategory": "creativity",
+    "aliases": [
+      "mongodb"
+    ],
+    "related_skills": [
+      "Terraform",
+      "PyTorch",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0043",
+    "name": "Mongodb Development",
+    "normalized_name": "mongodb development",
+    "category": "database",
+    "subcategory": "backend",
+    "aliases": [
+      "mongodb-development",
+      "mongodbdevelopment"
+    ],
+    "related_skills": [
+      "PyTorch",
+      "Python",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0044",
+    "name": "Ceh Expertise",
+    "normalized_name": "ceh expertise",
+    "category": "business",
+    "subcategory": "bi",
+    "aliases": [
+      "ceh-expertise",
+      "cehexpertise"
+    ],
+    "related_skills": [
+      "AWS",
+      "PMP",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0046",
+    "name": "Gcp Skill",
+    "normalized_name": "gcp skill",
+    "category": "cloud_platform",
+    "subcategory": "creativity",
+    "aliases": [
+      "gcp-skill",
+      "gcpskill"
+    ],
+    "related_skills": [
+      "Azure",
+      "Excel",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "data"
+    ]
+  },
+  {
+    "id": "skill_0048",
+    "name": "Time Management Expertise",
+    "normalized_name": "time management expertise",
+    "category": "programming_language",
+    "subcategory": "compiled",
+    "aliases": [
+      "time-management-expertise",
+      "timemanagementexpertise"
+    ],
+    "related_skills": [
+      "Azure",
+      "Figma",
+      "PMP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0050",
+    "name": "Django Development",
+    "normalized_name": "django development",
+    "category": "framework",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "djangodevelopment",
+      "django-development"
+    ],
+    "related_skills": [
+      "Azure",
+      "Jenkins",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0051",
+    "name": "Spring Tool",
+    "normalized_name": "spring tool",
+    "category": "tool",
+    "subcategory": "build_tool",
+    "aliases": [
+      "spring-tool",
+      "springtool"
+    ],
+    "related_skills": [
+      "PMP",
+      "PostgreSQL",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0053",
+    "name": "Azure",
+    "normalized_name": "azure",
+    "category": "cloud_platform",
+    "subcategory": "cloud",
+    "aliases": [
+      "azure"
+    ],
+    "related_skills": [
+      "Jenkins",
+      "Vue.js",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0055",
+    "name": "Kubernetes Tool",
+    "normalized_name": "kubernetes tool",
+    "category": "devops",
+    "subcategory": "project_management",
+    "aliases": [
+      "kubernetes-tool",
+      "kubernetestool"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Git",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0057",
+    "name": "Excel Development",
+    "normalized_name": "excel development",
+    "category": "tool",
+    "subcategory": "monitoring",
+    "aliases": [
+      "excel-development",
+      "exceldevelopment"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "AWS",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0058",
+    "name": "Spring",
+    "normalized_name": "spring",
+    "category": "ml",
+    "subcategory": "nlp",
+    "aliases": [
+      "spring"
+    ],
+    "related_skills": [
+      "React",
+      "PMP",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0060",
+    "name": "Scrum Development",
+    "normalized_name": "scrum development",
+    "category": "certification",
+    "subcategory": "version_control",
+    "aliases": [
+      "scrum-development",
+      "scrumdevelopment"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "AWS",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0063",
+    "name": "Javascript Tool",
+    "normalized_name": "javascript tool",
+    "category": "programming_language",
+    "subcategory": "web",
+    "aliases": [
+      "javascript-tool",
+      "javascripttool"
+    ],
+    "related_skills": [
+      "Git",
+      "PyTorch",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0064",
+    "name": "Postgresql Tool",
+    "normalized_name": "postgresql tool",
+    "category": "database",
+    "subcategory": "automation",
+    "aliases": [
+      "postgresqltool",
+      "postgresql-tool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Django",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0065",
+    "name": "Gcp Development",
+    "normalized_name": "gcp development",
+    "category": "cloud_platform",
+    "subcategory": "security",
+    "aliases": [
+      "gcp-development",
+      "gcpdevelopment"
+    ],
+    "related_skills": [
+      "Java",
+      "CI/CD",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0067",
+    "name": "Pmp",
+    "normalized_name": "pmp",
+    "category": "certification",
+    "subcategory": "web",
+    "aliases": [
+      "pmp"
+    ],
+    "related_skills": [
+      "Scrum",
+      "PostgreSQL",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0068",
+    "name": "Tensorflow Development",
+    "normalized_name": "tensorflow development",
+    "category": "ml",
+    "subcategory": "bi",
+    "aliases": [
+      "tensorflowdevelopment",
+      "tensorflow-development"
+    ],
+    "related_skills": [
+      "JavaScript",
+      "Excel",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0069",
+    "name": "Java Tool",
+    "normalized_name": "java tool",
+    "category": "programming_language",
+    "subcategory": "version_control",
+    "aliases": [
+      "javatool",
+      "java-tool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Terraform",
+      "C++"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0070",
+    "name": "Postgresql",
+    "normalized_name": "postgresql",
+    "category": "database",
+    "subcategory": "monitoring",
+    "aliases": [
+      "postgresql"
+    ],
+    "related_skills": [
+      "Spring",
+      "TensorFlow",
+      "C++"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "scalability",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0071",
+    "name": "Jenkins Skill",
+    "normalized_name": "jenkins skill",
+    "category": "soft_skill",
+    "subcategory": "creativity",
+    "aliases": [
+      "jenkins-skill",
+      "jenkinsskill"
+    ],
+    "related_skills": [
+      "Kubernetes",
+      "Git",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0075",
+    "name": "Docker Skill",
+    "normalized_name": "docker skill",
+    "category": "devops",
+    "subcategory": "monitoring",
+    "aliases": [
+      "dockerskill",
+      "docker-skill"
+    ],
+    "related_skills": [
+      "Excel",
+      "Terraform",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0076",
+    "name": "Kubernetes Development",
+    "normalized_name": "kubernetes development",
+    "category": "devops",
+    "subcategory": "security",
+    "aliases": [
+      "kubernetes-development",
+      "kubernetesdevelopment"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Flask",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0078",
+    "name": "Docker",
+    "normalized_name": "docker",
+    "category": "devops",
+    "subcategory": "relational",
+    "aliases": [
+      "docker"
+    ],
+    "related_skills": [
+      "React",
+      "CEH",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0081",
+    "name": "Django Skill",
+    "normalized_name": "django skill",
+    "category": "framework",
+    "subcategory": "project_management",
+    "aliases": [
+      "django-skill",
+      "djangoskill"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "CEH",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "frontend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0084",
+    "name": "C++ Development",
+    "normalized_name": "c++ development",
+    "category": "programming_language",
+    "subcategory": "communication",
+    "aliases": [
+      "c++development",
+      "c++-development"
+    ],
+    "related_skills": [
+      "Time Management",
+      "Leadership",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0086",
+    "name": "Javascript Expertise",
+    "normalized_name": "javascript expertise",
+    "category": "programming_language",
+    "subcategory": "iac",
+    "aliases": [
+      "javascript-expertise",
+      "javascriptexpertise"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Spring",
+      "CEH"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "data",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0087",
+    "name": "Ci/Cd Skill",
+    "normalized_name": "ci/cd skill",
+    "category": "devops",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "ci/cd-skill",
+      "ci/cdskill"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Jenkins",
+      "Git"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0088",
+    "name": "Azure Expertise",
+    "normalized_name": "azure expertise",
+    "category": "cloud_platform",
+    "subcategory": "hybrid",
+    "aliases": [
+      "azureexpertise",
+      "azure-expertise"
+    ],
+    "related_skills": [
+      "Figma",
+      "TensorFlow",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0091",
+    "name": "Flask Tool",
+    "normalized_name": "flask tool",
+    "category": "framework",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "flasktool",
+      "flask-tool"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "Spring",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0097",
+    "name": "Flask Development",
+    "normalized_name": "flask development",
+    "category": "framework",
+    "subcategory": "creativity",
+    "aliases": [
+      "flaskdevelopment",
+      "flask-development"
+    ],
+    "related_skills": [
+      "Azure",
+      "Figma",
+      "Jenkins"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0098",
+    "name": "Git Tool",
+    "normalized_name": "git tool",
+    "category": "tool",
+    "subcategory": "compiled",
+    "aliases": [
+      "git-tool",
+      "gittool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Figma",
+      "Terraform"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0100",
+    "name": "Mongodb Tool",
+    "normalized_name": "mongodb tool",
+    "category": "database",
+    "subcategory": "analytics",
+    "aliases": [
+      "mongodbtool",
+      "mongodb-tool"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "Docker",
+      "C++"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0101",
+    "name": "Aws Tool",
+    "normalized_name": "aws tool",
+    "category": "cloud_platform",
+    "subcategory": "mobile",
+    "aliases": [
+      "awstool",
+      "aws-tool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Time Management",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "data"
+    ]
+  },
+  {
+    "id": "skill_0103",
+    "name": "Git Expertise",
+    "normalized_name": "git expertise",
+    "category": "tool",
+    "subcategory": "strategy",
+    "aliases": [
+      "gitexpertise",
+      "git-expertise"
+    ],
+    "related_skills": [
+      "Kubernetes",
+      "Django",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0105",
+    "name": "Postgresql Development",
+    "normalized_name": "postgresql development",
+    "category": "database",
+    "subcategory": "communication",
+    "aliases": [
+      "postgresqldevelopment",
+      "postgresql-development"
+    ],
+    "related_skills": [
+      "Spring",
+      "PMP",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0106",
+    "name": "Figma Expertise",
+    "normalized_name": "figma expertise",
+    "category": "design",
+    "subcategory": "supervised",
+    "aliases": [
+      "figmaexpertise",
+      "figma-expertise"
+    ],
+    "related_skills": [
+      "Azure",
+      "Time Management",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0107",
+    "name": "React Expertise",
+    "normalized_name": "react expertise",
+    "category": "framework",
+    "subcategory": "unsupervised",
+    "aliases": [
+      "react-expertise",
+      "reactexpertise"
+    ],
+    "related_skills": [
+      "Figma",
+      "Jenkins",
+      "Git"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0108",
+    "name": "Python Expertise",
+    "normalized_name": "python expertise",
+    "category": "programming_language",
+    "subcategory": "communication",
+    "aliases": [
+      "pythonexpertise",
+      "python-expertise"
+    ],
+    "related_skills": [
+      "React",
+      "Scrum",
+      "Time Management"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0109",
+    "name": "Python Tool",
+    "normalized_name": "python tool",
+    "category": "programming_language",
+    "subcategory": "supervised",
+    "aliases": [
+      "pythontool",
+      "python-tool"
+    ],
+    "related_skills": [
+      "React",
+      "Excel",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "scalability",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0110",
+    "name": "Node.Js Expertise",
+    "normalized_name": "node.js expertise",
+    "category": "programming_language",
+    "subcategory": "general-purpose",
+    "aliases": [
+      "node.js-expertise",
+      "node.jsexpertise"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "Time Management",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "frontend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0113",
+    "name": "Terraform Expertise",
+    "normalized_name": "terraform expertise",
+    "category": "ml",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "terraformexpertise",
+      "terraform-expertise"
+    ],
+    "related_skills": [
+      "Spring",
+      "TensorFlow",
+      "C++"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0115",
+    "name": "Figma Development",
+    "normalized_name": "figma development",
+    "category": "design",
+    "subcategory": "nlp",
+    "aliases": [
+      "figma-development",
+      "figmadevelopment"
+    ],
+    "related_skills": [
+      "Azure",
+      "PostgreSQL",
+      "Django"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "frontend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0116",
+    "name": "Figma",
+    "normalized_name": "figma",
+    "category": "design",
+    "subcategory": "unsupervised",
+    "aliases": [
+      "figma"
+    ],
+    "related_skills": [
+      "AWS",
+      "PMP",
+      "Django"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0117",
+    "name": "Flask Skill",
+    "normalized_name": "flask skill",
+    "category": "framework",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "flask-skill",
+      "flaskskill"
+    ],
+    "related_skills": [
+      "C++",
+      "Leadership",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0119",
+    "name": "React Tool",
+    "normalized_name": "react tool",
+    "category": "framework",
+    "subcategory": "monitoring",
+    "aliases": [
+      "reacttool",
+      "react-tool"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "C++",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0123",
+    "name": "Vue.Js Expertise",
+    "normalized_name": "vue.js expertise",
+    "category": "business",
+    "subcategory": "finance",
+    "aliases": [
+      "vue.jsexpertise",
+      "vue.js-expertise"
+    ],
+    "related_skills": [
+      "AWS",
+      "CI/CD",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0127",
+    "name": "Node.Js Skill",
+    "normalized_name": "node.js skill",
+    "category": "database",
+    "subcategory": "cloud",
+    "aliases": [
+      "node.jsskill",
+      "node.js-skill"
+    ],
+    "related_skills": [
+      "Terraform",
+      "Spring",
+      "CI/CD"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0132",
+    "name": "Tensorflow Skill",
+    "normalized_name": "tensorflow skill",
+    "category": "ml",
+    "subcategory": "leadership",
+    "aliases": [
+      "tensorflow-skill",
+      "tensorflowskill"
+    ],
+    "related_skills": [
+      "AWS",
+      "Azure",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0137",
+    "name": "Ci/Cd Development",
+    "normalized_name": "ci/cd development",
+    "category": "devops",
+    "subcategory": "creativity",
+    "aliases": [
+      "ci/cd-development",
+      "ci/cddevelopment"
+    ],
+    "related_skills": [
+      "AWS",
+      "TensorFlow",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "scalability",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0140",
+    "name": "Java",
+    "normalized_name": "java",
+    "category": "programming_language",
+    "subcategory": "leadership",
+    "aliases": [
+      "java"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Leadership",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0141",
+    "name": "C++",
+    "normalized_name": "c++",
+    "category": "programming_language",
+    "subcategory": "in_memory",
+    "aliases": [
+      "c++"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Terraform",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "data",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0143",
+    "name": "Time Management Tool",
+    "normalized_name": "time management tool",
+    "category": "ml",
+    "subcategory": "supervised",
+    "aliases": [
+      "timemanagementtool",
+      "time-management-tool"
+    ],
+    "related_skills": [
+      "Excel",
+      "Spring",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0144",
+    "name": "Azure Development",
+    "normalized_name": "azure development",
+    "category": "cloud_platform",
+    "subcategory": "iac",
+    "aliases": [
+      "azure-development",
+      "azuredevelopment"
+    ],
+    "related_skills": [
+      "Azure",
+      "Git",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "design",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0145",
+    "name": "Ceh Tool",
+    "normalized_name": "ceh tool",
+    "category": "design",
+    "subcategory": "ui",
+    "aliases": [
+      "ceh-tool",
+      "cehtool"
+    ],
+    "related_skills": [
+      "Excel",
+      "PMP",
+      "Django"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0146",
+    "name": "Flask Expertise",
+    "normalized_name": "flask expertise",
+    "category": "framework",
+    "subcategory": "in_memory",
+    "aliases": [
+      "flaskexpertise",
+      "flask-expertise"
+    ],
+    "related_skills": [
+      "React",
+      "Spring",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0148",
+    "name": "Tensorflow",
+    "normalized_name": "tensorflow",
+    "category": "ml",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "tensorflow"
+    ],
+    "related_skills": [
+      "Node.js",
+      "CI/CD",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0149",
+    "name": "Terraform Skill",
+    "normalized_name": "terraform skill",
+    "category": "ml",
+    "subcategory": "unsupervised",
+    "aliases": [
+      "terraformskill",
+      "terraform-skill"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "CI/CD",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0150",
+    "name": "Jenkins Expertise",
+    "normalized_name": "jenkins expertise",
+    "category": "design",
+    "subcategory": "graphic",
+    "aliases": [
+      "jenkinsexpertise",
+      "jenkins-expertise"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Excel",
+      "Git"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0151",
+    "name": "Javascript Development",
+    "normalized_name": "javascript development",
+    "category": "programming_language",
+    "subcategory": "backend",
+    "aliases": [
+      "javascriptdevelopment",
+      "javascript-development"
+    ],
+    "related_skills": [
+      "Azure",
+      "Jenkins",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0152",
+    "name": "Java Development",
+    "normalized_name": "java development",
+    "category": "programming_language",
+    "subcategory": "ui",
+    "aliases": [
+      "java-development",
+      "javadevelopment"
+    ],
+    "related_skills": [
+      "JavaScript",
+      "MongoDB",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0160",
+    "name": "Postgresql Expertise",
+    "normalized_name": "postgresql expertise",
+    "category": "database",
+    "subcategory": "private",
+    "aliases": [
+      "postgresql-expertise",
+      "postgresqlexpertise"
+    ],
+    "related_skills": [
+      "Azure",
+      "Jenkins",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0162",
+    "name": "Time Management",
+    "normalized_name": "time management",
+    "category": "certification",
+    "subcategory": "cloud",
+    "aliases": [
+      "time-management",
+      "timemanagement"
+    ],
+    "related_skills": [
+      "React",
+      "C++",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0165",
+    "name": "Terraform Development",
+    "normalized_name": "terraform development",
+    "category": "database",
+    "subcategory": "cloud",
+    "aliases": [
+      "terraformdevelopment",
+      "terraform-development"
+    ],
+    "related_skills": [
+      "AWS",
+      "PyTorch",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "data"
+    ]
+  },
+  {
+    "id": "skill_0171",
+    "name": "Jenkins Tool",
+    "normalized_name": "jenkins tool",
+    "category": "programming_language",
+    "subcategory": "compiled",
+    "aliases": [
+      "jenkinstool",
+      "jenkins-tool"
+    ],
+    "related_skills": [
+      "React",
+      "Excel",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0174",
+    "name": "Spring Skill",
+    "normalized_name": "spring skill",
+    "category": "database",
+    "subcategory": "relational",
+    "aliases": [
+      "springskill",
+      "spring-skill"
+    ],
+    "related_skills": [
+      "Git",
+      "CEH",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "design",
+      "scalability",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0176",
+    "name": "C++ Skill",
+    "normalized_name": "c++ skill",
+    "category": "programming_language",
+    "subcategory": "ui",
+    "aliases": [
+      "c++skill",
+      "c++-skill"
+    ],
+    "related_skills": [
+      "GCP",
+      "TensorFlow",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0179",
+    "name": "Java Skill",
+    "normalized_name": "java skill",
+    "category": "programming_language",
+    "subcategory": "build_tool",
+    "aliases": [
+      "java-skill",
+      "javaskill"
+    ],
+    "related_skills": [
+      "Azure",
+      "AWS",
+      "Scrum"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "design",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0184",
+    "name": "Pytorch Tool",
+    "normalized_name": "pytorch tool",
+    "category": "ml",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "pytorch-tool",
+      "pytorchtool"
+    ],
+    "related_skills": [
+      "React",
+      "Node.js",
+      "CEH"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "design",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0193",
+    "name": "Jenkins Development",
+    "normalized_name": "jenkins development",
+    "category": "ml",
+    "subcategory": "nlp",
+    "aliases": [
+      "jenkinsdevelopment",
+      "jenkins-development"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Vue.js",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0195",
+    "name": "C++ Tool",
+    "normalized_name": "c++ tool",
+    "category": "programming_language",
+    "subcategory": "strategy",
+    "aliases": [
+      "c++-tool",
+      "c++tool"
+    ],
+    "related_skills": [
+      "React",
+      "Spring",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0196",
+    "name": "Mongodb Skill",
+    "normalized_name": "mongodb skill",
+    "category": "database",
+    "subcategory": "security",
+    "aliases": [
+      "mongodb-skill",
+      "mongodbskill"
+    ],
+    "related_skills": [
+      "AWS",
+      "PostgreSQL",
+      "Django"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "design",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0198",
+    "name": "Postgresql Skill",
+    "normalized_name": "postgresql skill",
+    "category": "database",
+    "subcategory": "backend",
+    "aliases": [
+      "postgresqlskill",
+      "postgresql-skill"
+    ],
+    "related_skills": [
+      "React",
+      "Node.js",
+      "CEH"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0199",
+    "name": "Pytorch",
+    "normalized_name": "pytorch",
+    "category": "ml",
+    "subcategory": "creativity",
+    "aliases": [
+      "pytorch"
+    ],
+    "related_skills": [
+      "React",
+      "Azure",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "design",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0205",
+    "name": "Leadership Skill",
+    "normalized_name": "leadership skill",
+    "category": "soft_skill",
+    "subcategory": "leadership",
+    "aliases": [
+      "leadershipskill",
+      "leadership-skill"
+    ],
+    "related_skills": [
+      "Azure",
+      "CI/CD",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0212",
+    "name": "Flask",
+    "normalized_name": "flask",
+    "category": "framework",
+    "subcategory": "mobile",
+    "aliases": [
+      "flask"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Time Management",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0215",
+    "name": "Aws Skill",
+    "normalized_name": "aws skill",
+    "category": "cloud_platform",
+    "subcategory": "build_tool",
+    "aliases": [
+      "aws-skill",
+      "awsskill"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Git",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0221",
+    "name": "Git Development",
+    "normalized_name": "git development",
+    "category": "tool",
+    "subcategory": "creativity",
+    "aliases": [
+      "git-development",
+      "gitdevelopment"
+    ],
+    "related_skills": [
+      "Flask",
+      "PostgreSQL",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "cloud",
+      "data"
+    ]
+  },
+  {
+    "id": "skill_0222",
+    "name": "Azure Skill",
+    "normalized_name": "azure skill",
+    "category": "cloud_platform",
+    "subcategory": "version_control",
+    "aliases": [
+      "azureskill",
+      "azure-skill"
+    ],
+    "related_skills": [
+      "Azure",
+      "MongoDB",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0228",
+    "name": "Aws",
+    "normalized_name": "aws",
+    "category": "cloud_platform",
+    "subcategory": "hybrid",
+    "aliases": [
+      "aws"
+    ],
+    "related_skills": [
+      "AWS",
+      "Terraform",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0231",
+    "name": "Pmp Skill",
+    "normalized_name": "pmp skill",
+    "category": "certification",
+    "subcategory": "leadership",
+    "aliases": [
+      "pmpskill",
+      "pmp-skill"
+    ],
+    "related_skills": [
+      "Kubernetes",
+      "CI/CD",
+      "PyTorch"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0233",
+    "name": "Gcp Tool",
+    "normalized_name": "gcp tool",
+    "category": "cloud_platform",
+    "subcategory": "graphic",
+    "aliases": [
+      "gcptool",
+      "gcp-tool"
+    ],
+    "related_skills": [
+      "CEH",
+      "TensorFlow",
+      "C++"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "data",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0239",
+    "name": "Spring Expertise",
+    "normalized_name": "spring expertise",
+    "category": "soft_skill",
+    "subcategory": "leadership",
+    "aliases": [
+      "springexpertise",
+      "spring-expertise"
+    ],
+    "related_skills": [
+      "PMP",
+      "Leadership",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0240",
+    "name": "Mongodb Expertise",
+    "normalized_name": "mongodb expertise",
+    "category": "database",
+    "subcategory": "cloud",
+    "aliases": [
+      "mongodbexpertise",
+      "mongodb-expertise"
+    ],
+    "related_skills": [
+      "React",
+      "Figma",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "scalability",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0241",
+    "name": "Aws Expertise",
+    "normalized_name": "aws expertise",
+    "category": "cloud_platform",
+    "subcategory": "backend",
+    "aliases": [
+      "awsexpertise",
+      "aws-expertise"
+    ],
+    "related_skills": [
+      "CI/CD",
+      "CEH",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "scalability",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0242",
+    "name": "Excel",
+    "normalized_name": "excel",
+    "category": "tool",
+    "subcategory": "bi",
+    "aliases": [
+      "excel"
+    ],
+    "related_skills": [
+      "Spring",
+      "CI/CD",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0244",
+    "name": "Node.Js",
+    "normalized_name": "node.js",
+    "category": "design",
+    "subcategory": "prototyping",
+    "aliases": [
+      "node.js"
+    ],
+    "related_skills": [
+      "Excel",
+      "PyTorch",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0247",
+    "name": "Figma Skill",
+    "normalized_name": "figma skill",
+    "category": "design",
+    "subcategory": "hybrid",
+    "aliases": [
+      "figma-skill",
+      "figmaskill"
+    ],
+    "related_skills": [
+      "Git",
+      "CEH",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0252",
+    "name": "Django",
+    "normalized_name": "django",
+    "category": "framework",
+    "subcategory": "relational",
+    "aliases": [
+      "django"
+    ],
+    "related_skills": [
+      "React",
+      "PMP",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "data"
+    ]
+  },
+  {
+    "id": "skill_0253",
+    "name": "Aws Development",
+    "normalized_name": "aws development",
+    "category": "cloud_platform",
+    "subcategory": "hybrid",
+    "aliases": [
+      "awsdevelopment",
+      "aws-development"
+    ],
+    "related_skills": [
+      "Leadership",
+      "Django",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "cloud"
+    ]
+  },
+  {
+    "id": "skill_0257",
+    "name": "Time Management Development",
+    "normalized_name": "time management development",
+    "category": "design",
+    "subcategory": "graphic",
+    "aliases": [
+      "timemanagementdevelopment",
+      "time-management-development"
+    ],
+    "related_skills": [
+      "Excel",
+      "Vue.js",
+      "GCP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0261",
+    "name": "Django Tool",
+    "normalized_name": "django tool",
+    "category": "framework",
+    "subcategory": "cloud",
+    "aliases": [
+      "django-tool",
+      "djangotool"
+    ],
+    "related_skills": [
+      "Spring",
+      "CI/CD",
+      "PMP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0263",
+    "name": "Tensorflow Expertise",
+    "normalized_name": "tensorflow expertise",
+    "category": "ml",
+    "subcategory": "prototyping",
+    "aliases": [
+      "tensorflow-expertise",
+      "tensorflowexpertise"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Django",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "cloud",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0269",
+    "name": "Vue.Js",
+    "normalized_name": "vue.js",
+    "category": "business",
+    "subcategory": "analytics",
+    "aliases": [
+      "vue.js"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Git",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "frontend",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0274",
+    "name": "Python Development",
+    "normalized_name": "python development",
+    "category": "programming_language",
+    "subcategory": "deep_learning",
+    "aliases": [
+      "python-development",
+      "pythondevelopment"
+    ],
+    "related_skills": [
+      "GCP",
+      "CI/CD",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0281",
+    "name": "Jenkins",
+    "normalized_name": "jenkins",
+    "category": "database",
+    "subcategory": "cloud",
+    "aliases": [
+      "jenkins"
+    ],
+    "related_skills": [
+      "React",
+      "CEH",
+      "Kubernetes"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "automation",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0282",
+    "name": "React Skill",
+    "normalized_name": "react skill",
+    "category": "framework",
+    "subcategory": "compiled",
+    "aliases": [
+      "react-skill",
+      "reactskill"
+    ],
+    "related_skills": [
+      "Kubernetes",
+      "TensorFlow",
+      "Docker"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0284",
+    "name": "Ci/Cd Tool",
+    "normalized_name": "ci/cd tool",
+    "category": "devops",
+    "subcategory": "nosql",
+    "aliases": [
+      "ci/cd-tool",
+      "ci/cdtool"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Figma",
+      "PostgreSQL"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0286",
+    "name": "Ceh Skill",
+    "normalized_name": "ceh skill",
+    "category": "design",
+    "subcategory": "graphic",
+    "aliases": [
+      "cehskill",
+      "ceh-skill"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Time Management",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "frontend",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0290",
+    "name": "C++ Expertise",
+    "normalized_name": "c++ expertise",
+    "category": "programming_language",
+    "subcategory": "strategy",
+    "aliases": [
+      "c++expertise",
+      "c++-expertise"
+    ],
+    "related_skills": [
+      "Spring",
+      "Git",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "design",
+      "frontend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0292",
+    "name": "Excel Skill",
+    "normalized_name": "excel skill",
+    "category": "tool",
+    "subcategory": "iac",
+    "aliases": [
+      "excel-skill",
+      "excelskill"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "Terraform",
+      "Git"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "cloud",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0297",
+    "name": "Kubernetes",
+    "normalized_name": "kubernetes",
+    "category": "devops",
+    "subcategory": "general-purpose",
+    "aliases": [
+      "kubernetes"
+    ],
+    "related_skills": [
+      "JavaScript",
+      "Git",
+      "Scrum"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0314",
+    "name": "React",
+    "normalized_name": "react",
+    "category": "framework",
+    "subcategory": "project_management",
+    "aliases": [
+      "react"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "JavaScript",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0328",
+    "name": "Excel Expertise",
+    "normalized_name": "excel expertise",
+    "category": "tool",
+    "subcategory": "public",
+    "aliases": [
+      "excel-expertise",
+      "excelexpertise"
+    ],
+    "related_skills": [
+      "Java",
+      "PMP",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0330",
+    "name": "Ceh Development",
+    "normalized_name": "ceh development",
+    "category": "tool",
+    "subcategory": "version_control",
+    "aliases": [
+      "cehdevelopment",
+      "ceh-development"
+    ],
+    "related_skills": [
+      "Node.js",
+      "Terraform",
+      "Time Management"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0351",
+    "name": "Gcp Expertise",
+    "normalized_name": "gcp expertise",
+    "category": "cloud_platform",
+    "subcategory": "version_control",
+    "aliases": [
+      "gcpexpertise",
+      "gcp-expertise"
+    ],
+    "related_skills": [
+      "Node.js",
+      "TensorFlow",
+      "Leadership"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "data",
+      "frontend",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0355",
+    "name": "Ci/Cd Expertise",
+    "normalized_name": "ci/cd expertise",
+    "category": "devops",
+    "subcategory": "backend",
+    "aliases": [
+      "ci/cdexpertise",
+      "ci/cd-expertise"
+    ],
+    "related_skills": [
+      "JavaScript",
+      "C++",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0367",
+    "name": "Azure Tool",
+    "normalized_name": "azure tool",
+    "category": "cloud_platform",
+    "subcategory": "monitoring",
+    "aliases": [
+      "azure-tool",
+      "azuretool"
+    ],
+    "related_skills": [
+      "Azure",
+      "Figma",
+      "C++"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0377",
+    "name": "Leadership",
+    "normalized_name": "leadership",
+    "category": "certification",
+    "subcategory": "cloud",
+    "aliases": [
+      "leadership"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Spring",
+      "Vue.js"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "design",
+      "security",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0378",
+    "name": "Javascript Skill",
+    "normalized_name": "javascript skill",
+    "category": "programming_language",
+    "subcategory": "graphic",
+    "aliases": [
+      "javascriptskill",
+      "javascript-skill"
+    ],
+    "related_skills": [
+      "Scrum",
+      "Git",
+      "TensorFlow"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0380",
+    "name": "Gcp",
+    "normalized_name": "gcp",
+    "category": "cloud_platform",
+    "subcategory": "ci_cd",
+    "aliases": [
+      "gcp"
+    ],
+    "related_skills": [
+      "Java",
+      "Node.js",
+      "Excel"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "data",
+      "security"
+    ]
+  },
+  {
+    "id": "skill_0387",
+    "name": "Leadership Expertise",
+    "normalized_name": "leadership expertise",
+    "category": "tool",
+    "subcategory": "version_control",
+    "aliases": [
+      "leadership-expertise",
+      "leadershipexpertise"
+    ],
+    "related_skills": [
+      "Java",
+      "Time Management",
+      "CI/CD"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "design",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_0389",
+    "name": "Spring Development",
+    "normalized_name": "spring development",
+    "category": "design",
+    "subcategory": "prototyping",
+    "aliases": [
+      "springdevelopment",
+      "spring-development"
+    ],
+    "related_skills": [
+      "AWS",
+      "CI/CD",
+      "Python"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_0405",
+    "name": "Vue.Js Development",
+    "normalized_name": "vue.js development",
+    "category": "certification",
+    "subcategory": "project_management",
+    "aliases": [
+      "vue.jsdevelopment",
+      "vue.js-development"
+    ],
+    "related_skills": [
+      "MongoDB",
+      "Java",
+      "CEH"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "data",
+      "design"
+    ]
+  },
+  {
+    "id": "skill_0604",
+    "name": "Pytorch Development",
+    "normalized_name": "pytorch development",
+    "category": "ml",
+    "subcategory": "compiled",
+    "aliases": [
+      "pytorchdevelopment",
+      "pytorch-development"
+    ],
+    "related_skills": [
+      "Spring",
+      "Python",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "automation",
+      "backend",
+      "teamwork"
+    ]
+  },
+  {
+    "id": "skill_0764",
+    "name": "Docker Tool",
+    "normalized_name": "docker tool",
+    "category": "devops",
+    "subcategory": "frontend",
+    "aliases": [
+      "dockertool",
+      "docker-tool"
+    ],
+    "related_skills": [
+      "JavaScript",
+      "Java",
+      "Jenkins"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "backend",
+      "cloud",
+      "scalability"
+    ]
+  },
+  {
+    "id": "skill_1092",
+    "name": "Vue.Js Skill",
+    "normalized_name": "vue.js skill",
+    "category": "certification",
+    "subcategory": "cloud",
+    "aliases": [
+      "vue.js-skill",
+      "vue.jsskill"
+    ],
+    "related_skills": [
+      "Figma",
+      "AWS",
+      "PMP"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "analytics",
+      "data",
+      "frontend"
+    ]
+  },
+  {
+    "id": "skill_1125",
+    "name": "Node.Js Tool",
+    "normalized_name": "node.js tool",
+    "category": "tool",
+    "subcategory": "monitoring",
+    "aliases": [
+      "node.jstool",
+      "node.js-tool"
+    ],
+    "related_skills": [
+      "Figma",
+      "Scrum",
+      "Flask"
+    ],
+    "proficiency_range": [
+      0,
+      100
+    ],
+    "tags": [
+      "cloud",
+      "security",
+      "teamwork"
+    ]
+  }
+]

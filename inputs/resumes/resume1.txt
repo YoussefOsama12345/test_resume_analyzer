@@ -1,0 +1,15 @@
+John Doe
+Senior Data Scientist
+
+Summary:
+Experienced Data Scientist with 6+ years in machine learning, NLP, and big data. Strong knowledge of Python, TensorFlow, and SQL. Experienced in deploying models using Docker and Kubernetes on AWS.
+
+Skills:
+- Python, R, SQL
+- TensorFlow, Keras, PyTorch
+- AWS, Docker, Kubernetes
+- Tableau, Excel, Power BI
+
+Certifications:
+- AWS Certified Machine Learning - Specialty
+- Certified Scrum Master
